@@ -30,7 +30,12 @@ Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por e
 2. Calculadora Básica
 
 *Procedimiento*
-1. Creamos una nuevo entorno 2D en tinterkad.
+1. Crear una nuevo entorno 2D en tinterkad.
+![1](https://user-images.githubusercontent.com/93794279/141382346-0c75dec9-d713-419f-a017-0bab941f88e0.PNG)
+2. Selecionar el Protoboard, ahora observar y analizar como es el circuito que se va a armar.
+![3](https://user-images.githubusercontent.com/93794279/141382688-402a85d8-c65b-4461-b8bf-49e969e9bdd4.PNG)
+
+
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 ## 5. VIDEO
