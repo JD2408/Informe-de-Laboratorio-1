@@ -20,8 +20,9 @@ Kirchhoff de Corrientes.
 ![leyes](https://user-images.githubusercontent.com/93794279/141381476-3df8411d-99f1-402a-9b93-6cc6aaa9d255.png)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
-*Materriales*
+*Materiales*
 1. Tener una cuenta en la plataforma Tinterkad
+
 Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por eso hacemos uso de esta plataforma para realizarlo, dentro de esta necesitaremos traer de la biblioteca los siguientes componentes:
 - Suministro de energía
 - Protoboard
@@ -29,7 +30,7 @@ Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por e
 - Multímetro
 2. Calculadora Básica
 
-*Procedimiento*
+*Procedimiento Experimental*
 1. Crear una nuevo entorno 2D en tinterkad.
 ![1](https://user-images.githubusercontent.com/93794279/141382346-0c75dec9-d713-419f-a017-0bab941f88e0.PNG)
 2. Selecionar el Protoboard, ahora observar y analizar como es el circuito que se va a armar.
@@ -38,6 +39,14 @@ Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por e
 ![4](https://user-images.githubusercontent.com/93794279/141382819-57b13589-ea8c-41a7-a30b-7b025c5816f7.PNG)
 4. Armar el circuito, taer el suministro de energía y configurarlo para 10 V.
 ![5](https://user-images.githubusercontent.com/93794279/141382948-9da3ced8-95a9-4eb6-89e8-461c11389d4b.PNG)
+5. Realizar las mediciones correctas con el multímetro, tener en cuenta si es voltaje, amperaje o resistencia.
+**Medicion de voltaje**
+![6](https://user-images.githubusercontent.com/93794279/141383194-19738490-949c-4d05-ac8b-c89000223a7a.PNG)
+**Medicion de resistencia**
+![7](https://user-images.githubusercontent.com/93794279/141383412-6d6bfdee-9c29-43c5-bccc-facaec58f71c.PNG)
+**Medicion de amperaje**
+![8](https://user-images.githubusercontent.com/93794279/141383579-88a62a26-f2a4-4572-85cd-cc5a0e00ca6a.PNG)
+
 
 
 
