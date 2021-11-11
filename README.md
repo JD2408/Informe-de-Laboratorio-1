@@ -10,6 +10,9 @@
 Kirchhoff de Corrientes.
 
  ***Objetivos Específicos***
+- Utilizar de forma adecuada el software de simulaciòn (Tinterkad), teniendo encuenta el codigo de colores para los cabales, el orden de los componentes y la estetica de los circuitos.
+- Comparar la diferencia que existe entre los valores medidos con los valores calculados, atraves del calculo de error.
+- Aplicar los conocimientos para realizar correctamente las  medidas con el multimetro, diferenciando entre paralelo y serie.
 
 ## 2. MARCO TEÓRICO
 ![Ley de Ohm](https://user-images.githubusercontent.com/93794279/141377003-72a0d14b-321a-4e29-ae8c-9a9fa71518fe.png)
