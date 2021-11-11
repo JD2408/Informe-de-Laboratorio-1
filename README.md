@@ -34,6 +34,11 @@ Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por e
 ![1](https://user-images.githubusercontent.com/93794279/141382346-0c75dec9-d713-419f-a017-0bab941f88e0.PNG)
 2. Selecionar el Protoboard, ahora observar y analizar como es el circuito que se va a armar.
 ![3](https://user-images.githubusercontent.com/93794279/141382688-402a85d8-c65b-4461-b8bf-49e969e9bdd4.PNG)
+3. Escoger el codigo de colores correcto para cada resistencia.
+![4](https://user-images.githubusercontent.com/93794279/141382819-57b13589-ea8c-41a7-a30b-7b025c5816f7.PNG)
+4. Armar el circuito, taer el suministro de energía y configurarlo para 10 V.
+![5](https://user-images.githubusercontent.com/93794279/141382948-9da3ced8-95a9-4eb6-89e8-461c11389d4b.PNG)
+
 
 
 
