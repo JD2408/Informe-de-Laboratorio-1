@@ -17,17 +17,20 @@ Kirchhoff de Corrientes.
 ## 2. MARCO TEÓRICO
 ![Ley de Ohm](https://user-images.githubusercontent.com/93794279/141377003-72a0d14b-321a-4e29-ae8c-9a9fa71518fe.png)
 ![Diagrama en blanco](https://user-images.githubusercontent.com/93794279/141377036-d6c7cd48-c0b8-41dd-a021-cf236a355833.png)
+![leyes](https://user-images.githubusercontent.com/93794279/141381476-3df8411d-99f1-402a-9b93-6cc6aaa9d255.png)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 *Materriales*
 1. Tener una cuenta en la plataforma Tinterkad
-Debido a la pandemia no podemos realizar el laboratorio con equipo fisico por eso hacemos uso de esta plataforma para realizarlo, dentro de esta necesitaremos traer de la biblioteca los siguientes componentes:
+Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por eso hacemos uso de esta plataforma para realizarlo, dentro de esta necesitaremos traer de la biblioteca los siguientes componentes:
 - Suministro de energía
 - Protoboard
 - Resistencia
 - Multímetro
-
 2. Calculadora Básica
+
+*Procedimiento*
+1. Creamos una nuevo entorno 2D en tinterkad.
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 ## 5. VIDEO
