@@ -1,3 +1,4 @@
 # Informe-de-Laboratorio-1
 Informe
-![image](https://github.com/JD2408/Informe-de-Laboratorio-1/issues/1#issue-1051406818)
+![Ley de Ohm](https://user-images.githubusercontent.com/93794279/141377003-72a0d14b-321a-4e29-ae8c-9a9fa71518fe.png)
+
