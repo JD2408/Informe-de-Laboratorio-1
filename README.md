@@ -119,15 +119,17 @@ Este procedimiento se debe hacer en 2 subprocesos
  
  **Trayectoria 1**
 
- 
- 
+![1](https://user-images.githubusercontent.com/93794279/141410612-ae72354a-60a8-4124-b735-f70d80bd2837.PNG)
+
+
  **Trayectoria 2**
  
+ ![2](https://user-images.githubusercontent.com/93794279/141410616-4166b0cf-477d-45e2-9f52-75f5281a9c42.PNG)
  
  
  **Trayectoria 3**
  
- 
+ ![3](https://user-images.githubusercontent.com/93794279/141410617-c7154c10-13bf-4bb4-b31d-e0c322e03a54.PNG)
  
  
  ### Tabla 3
