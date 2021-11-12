@@ -71,11 +71,12 @@ Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por e
 ### Tabla 1
 
 *Procedimiento del cálculo*
+
 Este procedimiento se debe hacer en 2 subprocesos
 
 - Cálculo de la Resistencia Equivalante
 
-   1. Sumaremos la R3 y R4, ya que estan en serie.
+   1. Para encontrara Ra se sumara la R3 y R4, ya que estan en serie.
    
    2. Cálculamos la resistencia Rb, teniendo encuenta que R2 y Ra son paralelas.
    
