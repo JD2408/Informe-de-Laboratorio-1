@@ -89,25 +89,25 @@ Este procedimiento se debe hacer en 2 subprocesos
   
   1. Empezare a calcular partiendo desde el 3 subcircuito, entonces se sabe que la corriente en serie se mantiene, por lo que es la misma en las resistencias R1,Rb Y R5. Teniendo en cuenta ese dato y al usar la ley de Ohm, se puede encontrar fácilmente los voltajes de cada resistencia.
 
- 2. En el subcircuito 2, se abre la Rb y se divide en R2 y Ra, como estan en paralelo el voltaje se mantiene, entonces se encontrara la intensidad de corriente en el R2 y Ra aplicando ley de Ohm.
+  2. En el subcircuito 2, se abre la Rb y se divide en R2 y Ra, como estan en paralelo el voltaje se mantiene, entonces se encontrara la intensidad de corriente en el R2 y Ra aplicando ley de Ohm.
 
 
- 3. A continuación la Ra se divide en R3 y R4, estando estas en serie, dando a entender que la intensidad sera la misma, para finalizar calculamos el valor de volataje en R3 y R4.
+  3. A continuación la Ra se divide en R3 y R4, estando estas en serie, dando a entender que la intensidad sera la misma, para finalizar calculamos el valor de volataje en R3 y R4.
 
 
 ### Tabla 2
  Aquí se deberá aplicar la LVK, la cual nos establece que si sumamos las caidas del voltaje de resultado obtendremos el voltaje total, entonces se debera escoger las direfentes trayectorias en las que se aplicara la ley.
  
  
- ** Trayectoria 1 **
+ **Trayectoria 1**
 
  
  
- ** Trayectoria 2 **
+ **Trayectoria 2**
  
  
  
- ** Trayectoria 3 **
+ **Trayectoria 3**
  
  
  
@@ -116,32 +116,33 @@ Este procedimiento se debe hacer en 2 subprocesos
  
  Aquí se deberá aplicar la LCK, la cual nos establece que si sumamos las intensidades de corriente que entran a un nodo debe ser igual a la suma de intensidades de corriente que salen, entonces se debera escoger las direfentes nodos, ademas de eso considerar la dirección de corriente en el circuito. En este circuito existen 2 nodos importantes y 3 nodos irrelevantes.
  
-** Nodo 1 **
+**Nodo 1**
 
 Este es un nodo importante, surge de la interección entre el R1  como corrientes de entrada  ;  R3 y R1 como corriente de salida.
 
-** Nodo 2 **
+**Nodo 2**
 
 Este es un nodo irrelevante, ya que solo tiene un corriente de entrada y una de salida, en este caso la corriente de R3 y la de R4.
 
-** Nodo 3 **
+**Nodo 3 **
 
 Nodo importante. Ingresa la intensidad de R4 y R2 y  se obtine la intensidad de R5.
 
-** Nodo 4 **
+**Nodo 4 **
 
 Nodo irrelevante. Ingeresa la corriente total y sale la corriente de R1.
 
-** Nodo 5 **
+**Nodo 5 **
 
 Nodo irrelevante. Ingeresa la corriente de R5l y sale a corriente total .
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
-*** Tabla 1 ***
 
-*** Tabla 2 ***
+***Tabla 1 ***
 
-*** Tabla 3 ***
+***Tabla 2 ***
+
+***Tabla 3 ***
 
 
 *** Cálculo de Error ***
