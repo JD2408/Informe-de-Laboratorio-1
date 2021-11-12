@@ -100,7 +100,8 @@ Este procedimiento se debe hacer en 2 subprocesos
   
   1. Empezare a calcular partiendo desde el 3 subcircuito, entonces se sabe que la corriente en serie se mantiene, por lo que es la misma en las resistencias R1,Rb Y R5. Teniendo en cuenta ese dato y al usar la ley de Ohm, se puede encontrar fácilmente los voltajes de cada resistencia.
 
-![1](https://user-images.githubusercontent.com/93794279/141408193-7ed9a629-d14e-4dc2-a61d-b048e14d8a71.PNG)
+![1 1](https://user-images.githubusercontent.com/93794279/141408988-66591014-1459-4736-8006-6bf1ba65e1e4.PNG)
+
 
   2. En el subcircuito 2, se abre la Rb y se divide en R2 y Ra, como estan en paralelo el voltaje se mantiene, entonces se encontrara la intensidad de corriente en el R2 y Ra aplicando ley de Ohm.
 
