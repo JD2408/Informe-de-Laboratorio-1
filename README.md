@@ -100,11 +100,17 @@ Este procedimiento se debe hacer en 2 subprocesos
   
   1. Empezare a calcular partiendo desde el 3 subcircuito, entonces se sabe que la corriente en serie se mantiene, por lo que es la misma en las resistencias R1,Rb Y R5. Teniendo en cuenta ese dato y al usar la ley de Ohm, se puede encontrar fácilmente los voltajes de cada resistencia.
 
+![1](https://user-images.githubusercontent.com/93794279/141408193-7ed9a629-d14e-4dc2-a61d-b048e14d8a71.PNG)
+
   2. En el subcircuito 2, se abre la Rb y se divide en R2 y Ra, como estan en paralelo el voltaje se mantiene, entonces se encontrara la intensidad de corriente en el R2 y Ra aplicando ley de Ohm.
+
+![2](https://user-images.githubusercontent.com/93794279/141408257-64bad28a-3895-4b25-badd-68be9b21d9f7.PNG)
+
 
 
   3. A continuación la Ra se divide en R3 y R4, estando estas en serie, dando a entender que la intensidad sera la misma, para finalizar calculamos el valor de volataje en R3 y R4.
 
+![3](https://user-images.githubusercontent.com/93794279/141408279-6a70baef-a74b-4d8e-b487-595304d707cd.PNG)
 
 ### Tabla 2
  Aquí se deberá aplicar la LVK, la cual nos establece que si sumamos las caidas del voltaje de resultado obtendremos el voltaje total, entonces se debera escoger las direfentes trayectorias en las que se aplicara la ley.
