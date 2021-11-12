@@ -124,25 +124,25 @@ Este es un nodo importante, surge de la interección entre el R1  como corriente
 
 Este es un nodo irrelevante, ya que solo tiene un corriente de entrada y una de salida, en este caso la corriente de R3 y la de R4.
 
-**Nodo 3 **
+**Nodo 3**
 
 Nodo importante. Ingresa la intensidad de R4 y R2 y  se obtine la intensidad de R5.
 
-**Nodo 4 **
+**Nodo 4**
 
 Nodo irrelevante. Ingeresa la corriente total y sale la corriente de R1.
 
-**Nodo 5 **
+**Nodo 5**
 
-Nodo irrelevante. Ingeresa la corriente de R5l y sale a corriente total .
+Nodo irrelevante. Ingeresa la corriente de R5 y sale a corriente total .
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 
-***Tabla 1 ***
+***Tabla 1***
 
-***Tabla 2 ***
+***Tabla 2***
 
-***Tabla 3 ***
+***Tabla 3***
 
 
 *** Cálculo de Error ***
