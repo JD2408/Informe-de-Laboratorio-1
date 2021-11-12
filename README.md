@@ -168,7 +168,7 @@ Nodo irrelevante. Ingeresa la corriente de R5 y sale a corriente total .
 
 ## 7. BIBLIOGRAFÍA
 
-1.Las leyes de Kirchhoff (artículo). (n.d.). Khanacademy.Org. Retrieved November 12, 2021, from https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+1. Las leyes de Kirchhoff (artículo). (n.d.). Khanacademy.Org. Retrieved November 12, 2021, from https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 
 2. Fluke. (2016, October 31). ¿Qué es la ley de Ohm? Fluke.Com. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-ohmç
 
