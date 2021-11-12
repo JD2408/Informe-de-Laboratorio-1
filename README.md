@@ -150,7 +150,7 @@ Nodo irrelevante. Ingeresa la corriente de R5 y sale a corriente total .
 
 ***Tabla 3***
 
-![Tabla-3](https://user-images.githubusercontent.com/93794279/141391516-fd86ae71-0241-4edb-ae80-02aa1c41b21c.png)
+![tabla](https://user-images.githubusercontent.com/93794279/141406539-381980ea-1046-4a48-8f3e-17a88da4275f.png)
 
 
 ***Cálculo de Error***
