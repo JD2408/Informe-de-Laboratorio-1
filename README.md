@@ -136,25 +136,43 @@ Este procedimiento se debe hacer en 2 subprocesos
  
  Aquí se deberá aplicar la LCK, la cual nos establece que si sumamos las intensidades de corriente que entran a un nodo debe ser igual a la suma de intensidades de corriente que salen, entonces se debera escoger las direfentes nodos, ademas de eso considerar la dirección de corriente en el circuito. En este circuito existen 2 nodos importantes y 3 nodos irrelevantes.
  
+ ![Diagrama en blanco](https://user-images.githubusercontent.com/93794279/141410892-891f2d71-58e7-44cb-ab78-24360e67281c.png)
+ 
 **Nodo 1**
 
 Este es un nodo importante, surge de la interección entre el R1  como corrientes de entrada  ;  R3 y R1 como corriente de salida.
+
+
+![1](https://user-images.githubusercontent.com/93794279/141411303-13a7fff9-d7c2-4c09-85d9-84185e8a369c.PNG)
+
 
 **Nodo 2**
 
 Este es un nodo irrelevante, ya que solo tiene un corriente de entrada y una de salida, en este caso la corriente de R3 y la de R4.
 
+![2](https://user-images.githubusercontent.com/93794279/141411306-bbfc5df7-efbb-4963-85c2-313d33fd858f.PNG)
+
+
 **Nodo 3**
 
 Nodo importante. Ingresa la intensidad de R4 y R2 y  se obtine la intensidad de R5.
+
+![3](https://user-images.githubusercontent.com/93794279/141411307-cebc05da-127d-4578-b272-bbf33a2323dd.PNG)
+
 
 **Nodo 4**
 
 Nodo irrelevante. Ingeresa la corriente total y sale la corriente de R1.
 
+![4](https://user-images.githubusercontent.com/93794279/141411308-06952881-d1ba-4761-81b7-c64616ba3ca9.PNG)
+
+
 **Nodo 5**
 
 Nodo irrelevante. Ingeresa la corriente de R5 y sale a corriente total .
+
+![5](https://user-images.githubusercontent.com/93794279/141411310-f5c377ee-3351-4ccb-a586-43c6a06950c3.PNG)
+
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 
