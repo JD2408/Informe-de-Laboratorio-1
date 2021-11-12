@@ -134,7 +134,7 @@ Este procedimiento se debe hacer en 2 subprocesos
  
  ### Tabla 3
  
- Aquí se deberá aplicar la LCK, la cual nos establece que si sumamos las intensidades de corriente que entran a un nodo debe ser igual a la suma de intensidades de corriente que salen, entonces se debera escoger las direfentes nodos, ademas de eso considerar la dirección de corriente en el circuito. En este circuito existen 2 nodos importantes y 3 nodos irrelevantes.
+ Aquí se deberá aplicar la LCK, la cual nos establece que si sumamos las intensidades de corriente que entran a un nodo debe ser igual a la suma de intensidades de corriente que salen, entonces se debera escoger las direfentes nodos, ademas de eso considerar la dirección de corriente en el circuito. En este circuito existen 2 nodos importantes y 3 nodos irrelevantes. En la siguiente imagen se observa la dirección de la intensidad de corriente.
  
  ![Diagrama en blanco](https://user-images.githubusercontent.com/93794279/141410892-891f2d71-58e7-44cb-ab78-24360e67281c.png)
  
