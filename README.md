@@ -156,6 +156,9 @@ Nodo irrelevante. Ingeresa la corriente de R5 y sale a corriente total .
 ***Cálculo de Error***
 
 ## 5. VIDEO
+
+
+
 ## 6. CONCLUSIONES
 
 -Se puede decir qeu los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 10% en su mayoría.
@@ -164,6 +167,10 @@ Nodo irrelevante. Ingeresa la corriente de R5 y sale a corriente total .
 - En base a los resultados obtenidos se puede concluir que por lo menos en circuitos pequeños como este, los  resultados medidos son casi exactos a los calculados.
 
 ## 7. BIBLIOGRAFÍA
+
+1.Las leyes de Kirchhoff (artículo). (n.d.). Khanacademy.Org. Retrieved November 12, 2021, from https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+2. Fluke. (2016, October 31). ¿Qué es la ley de Ohm? Fluke.Com. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-ohm
+3. Nilsson, J. W., & Riedel, S. A. (2006). Circuitos electricos (Vuelapluma, Trans.; 7th ed.). Pearson Educacion.
 
 
 
