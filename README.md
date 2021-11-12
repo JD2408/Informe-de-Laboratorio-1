@@ -80,7 +80,7 @@ Este procedimiento se debe hacer en 2 subprocesos
    
    2. Cálculamos la resistencia Rb, teniendo encuenta que R2 y Ra son paralelas.
    
-   3. Finalmente tenemos Req si sumamos las resitencias R1, RB Y R5, que estan en serie.
+   3. Finalmente tenemos Req si sumamos las resitencias R1, Rb Y R5, que estan en serie.
    
    4. Encontramos la resistencia total aplicando ley de Ohm.
   
