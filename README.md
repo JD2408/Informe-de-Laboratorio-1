@@ -23,7 +23,7 @@ Kirchhoff de Corrientes.
 *Materiales*
 1. Tener una cuenta en la plataforma Tinterkad
 
-Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por eso hacemos uso de esta plataforma para realizarlo, dentro de esta necesitaremos traer de la biblioteca los siguientes componentes:
+Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por eso hacemos uso de esta plataforma, dentro de esta necesitaremos traer de la biblioteca los siguientes componentes:
 - Suministro de energía
 - Protoboard
 - Resistencia
