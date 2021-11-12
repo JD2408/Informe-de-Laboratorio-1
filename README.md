@@ -192,6 +192,9 @@ Nodo irrelevante. Ingeresa la corriente de R5 y sale a corriente total .
 
 
 ***Cálculo de Error***
+Aqui se realizó el caclulo del porcentaje de error que tenia cada valor de voltaje, amperaje y resistencia, con respecto al color calculado y su valor medido. 
+
+![error](https://user-images.githubusercontent.com/93794279/141411537-4900e048-ea6e-4256-875f-e96da4a5a62c.PNG)
 
 ## 5. VIDEO
 
