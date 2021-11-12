@@ -10,7 +10,7 @@
 Kirchhoff de Corrientes.
 
  ***Objetivos Específicos***
-- Utilizar de forma adecuada el software de simulaciòn (Tinterkad), teniendo encuenta el codigo de colores para los cabales, el orden de los componentes y la estetica de los circuitos.
+- Utilizar de forma adecuada el software de simulaciòn (Tinkercad), teniendo encuenta el codigo de colores para los cabales, el orden de los componentes y la estetica de los circuitos.
 - Comparar la diferencia que existe entre los valores medidos con los valores calculados, atraves del calculo de error.
 - Aplicar los conocimientos para realizar correctamente las  medidas con el multimetro, diferenciando entre paralelo y serie.
 
@@ -21,7 +21,7 @@ Kirchhoff de Corrientes.
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 *Materiales*
-1. Tener una cuenta en la plataforma Tinterkad
+1. Tener una cuenta en la plataforma Tinkercad
 
 Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por eso hacemos uso de esta plataforma, dentro de esta necesitaremos traer de la biblioteca los siguientes componentes:
 - Suministro de energía
@@ -145,6 +145,9 @@ Nodo irrelevante. Ingeresa la corriente de R5 y sale a corriente total .
 
 ***Tabla 2***
 
+![Tabla-2](https://user-images.githubusercontent.com/93794279/141391353-4692e866-5b2c-4484-8291-0b29d8037b74.png)
+
+
 ***Tabla 3***
 
 
@@ -152,6 +155,12 @@ Nodo irrelevante. Ingeresa la corriente de R5 y sale a corriente total .
 
 ## 5. VIDEO
 ## 6. CONCLUSIONES
+
+-Se puede decir qeu los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 10% en su mayoría.
+- Se concluyó que Tinkercad es un software que nos permite realizar simulaciones de circuitos en 2D muy parecidos a la vida real, es una plataforma perfecta para principiantes en la creacion de circuitos.
+- Se ratifico que las tecnicas correctas de  mediciones para el voltaje y la resitencia son en paralelo, mientras que las de intensidad de corriente son en serie
+- En base a los resultados obtenidos se puede concluir que por lo menos en circuitos pequeños como este, los  resultados medidos son casi exactos a los calculados.
+
 ## 7. BIBLIOGRAFÍA
 
 
