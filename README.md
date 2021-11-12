@@ -203,7 +203,7 @@ https://youtu.be/3d03pjyvGGc
 
 ## 6. CONCLUSIONES
 
-- Se puede decir qeu los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 10% en su mayoría.
+- Se puede decir que los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 20% en su mayoría.
 - Se concluyó que Tinkercad es un software que nos permite realizar simulaciones de circuitos en 2D muy parecidos a la vida real, es una plataforma perfecta para principiantes en la creacion de circuitos.
 - Se ratifico que las tecnicas correctas de  mediciones para el voltaje y la resitencia son en paralelo, mientras que las de intensidad de corriente son en serie
 - En base a los resultados obtenidos se puede concluir que por lo menos en circuitos pequeños como este, los  resultados medidos son casi exactos a los calculados.
