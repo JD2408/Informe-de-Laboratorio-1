@@ -164,7 +164,7 @@ Nodo importante. Ingresa la intensidad de R4 y R2 y  se obtine la intensidad de 
 
 Nodo irrelevante. Ingeresa la corriente total y sale la corriente de R1.
 
-![4](https://user-images.githubusercontent.com/93794279/141411308-06952881-d1ba-4761-81b7-c64616ba3ca9.PNG)
+![1](https://user-images.githubusercontent.com/93794279/141415659-24c9900a-efdc-4146-8ac5-86c2a655c181.PNG)
 
 
 **Nodo 5**
