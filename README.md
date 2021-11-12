@@ -38,7 +38,7 @@ Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por e
 
 2. Observar y analizar como es el circuito que se va a armar.
 
-![3](https://user-images.githubusercontent.com/93794279/141382688-402a85d8-c65b-4461-b8bf-49e969e9bdd4.PNG)
+![Diagrama en blanco](https://user-images.githubusercontent.com/93794279/141406616-cc55adf6-ed86-45e7-b909-45b8f7fae74e.png)
 
 3. Escoger el codigo de colores correcto para cada resistencia.
 
