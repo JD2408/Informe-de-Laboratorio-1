@@ -148,7 +148,7 @@ Nodo irrelevante. Ingeresa la corriente de R5 y sale a corriente total .
 ***Tabla 3***
 
 
-*** Cálculo de Error ***
+***Cálculo de Error***
 
 ## 5. VIDEO
 ## 6. CONCLUSIONES
