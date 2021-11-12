@@ -38,7 +38,7 @@ Debido a la pandemia no podemos realizar el laboratorio con equipo fisico, por e
 
 2. Observar y analizar como es el circuito que se va a armar.
 
-![Diagrama en blanco](https://user-images.githubusercontent.com/93794279/141406616-cc55adf6-ed86-45e7-b909-45b8f7fae74e.png)
+![3](https://user-images.githubusercontent.com/93794279/141382688-402a85d8-c65b-4461-b8bf-49e969e9bdd4.PNG)
 
 3. Escoger el codigo de colores correcto para cada resistencia.
 
@@ -76,13 +76,24 @@ Este procedimiento se debe hacer en 2 subprocesos
 
 - Cálculo de la Resistencia Equivalante
 
+![Diagrama en blanco](https://user-images.githubusercontent.com/93794279/141407909-0b0b1a56-3fed-48c2-b580-0b9ff3d815ca.png)
+
    1. Para encontrara Ra se sumara la R3 y R4, ya que estan en serie.
+
+![2](https://user-images.githubusercontent.com/93794279/141407943-58048c76-f24b-4870-9e5f-145ea2fc4569.PNG)
+
    
    2. Cálculamos la resistencia Rb, teniendo encuenta que R2 y Ra son paralelas.
+
+![3](https://user-images.githubusercontent.com/93794279/141407974-ed562b28-2712-4fd5-8899-4c2ac703270f.PNG)
    
    3. Finalmente tenemos Req si sumamos las resitencias R1, Rb Y R5, que estan en serie.
+
+![4](https://user-images.githubusercontent.com/93794279/141408035-acf32cbb-635b-4df2-bba7-ed28120bca76.PNG)
    
    4. Encontramos la resistencia total aplicando ley de Ohm.
+
+![i](https://user-images.githubusercontent.com/93794279/141408106-9d2cd9f3-a1b3-4817-914c-6cd2191708c3.PNG)
   
   
 - Cálculo de los voltajes y corrientes de cada resistencia.
@@ -150,7 +161,7 @@ Nodo irrelevante. Ingeresa la corriente de R5 y sale a corriente total .
 
 ***Tabla 3***
 
-![tabla](https://user-images.githubusercontent.com/93794279/141406539-381980ea-1046-4a48-8f3e-17a88da4275f.png)
+![Tabla-3](https://user-images.githubusercontent.com/93794279/141391516-fd86ae71-0241-4edb-ae80-02aa1c41b21c.png)
 
 
 ***Cálculo de Error***
